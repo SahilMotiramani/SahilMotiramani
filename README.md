@@ -1,44 +1,65 @@
-👨‍💻 Sahil Dinesh Motiramani
+# 👋 Hi, I'm Sahil Dinesh Motiramani
 
-🎓 B.E in Information Technology | Data Science Focus🏫 Vivekanand Education Society’s Institute Of Technology (VESIT), Mumbai📬 msd201104@gmail.com📍 Mumbai, India🔗 LinkedIn | GitHub
+🎓 B.E in Information Technology | Data Science Focus  
+🏫 Vivekanand Education Society’s Institute Of Technology (VESIT), Mumbai  
+📍 Mumbai, India  
+📧 [msd201104@gmail.com](mailto:msd201104@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sahil-motiramani-b116842a8/) | [GitHub](https://github.com/SahilMotiramani)
 
-👋 About Me
+---
 
-I'm a passionate full-stack developer and machine learning enthusiast with a strong foundation in Python, Java, and the MERN stack. I love building intelligent systems that solve real-world problems. I’ve led and contributed to various hackathon projects across India, blending technology and innovation to create impactful solutions—from smart agriculture to AI-powered multimedia platforms.
+## 🚀 About Me
 
-🏆 Highlights
+I'm a full-stack developer and machine learning enthusiast passionate about building real-world impactful applications. With a strong foundation in the MERN stack, Python, and AI/ML, I enjoy solving problems across domains—from smart agriculture to intelligent multimedia systems.
 
-🏅 Finalist - RACCA Hackathon 2024Built a machine learning-powered surveillance system for Jaipur.
+---
 
-🏅 Finalist - Excavate @ IIT Kharagpur 2025 (Top 10)Led the development of ML models predicting band gaps in materials science using XGBoost, integrated into a user-friendly web app.
+## 🏆 Achievements
 
-🎤 Ideathon 2.0 @ PCU, PuneDeveloped EcoSynth, an AI-powered audio-video companion with text-to-speech, speech-to-text, voice cloning, dubbing, and video generation.
+- 🥇 **Finalist - RACCA Hackathon 2024**, Jaipur  
+  Developed a machine learning-based surveillance system.
 
-💻 Technical Skills
+- 🥈 **Top 10 Finalist - Excavate @ IIT Kharagpur 2025**  
+  Led a team to build XGBoost-based ML models for predicting band gaps in perovskite oxides.
 
-Languages & Tools: Python, Java, JavaScript, Node.js, Express.js, MongoDB, MySQL, Flask, React
+- 💡 **Participant - Ideathon 2.0, PCU Pune**  
+  Created *EcoSynth* — an AI-powered tool with speech, dubbing, voice cloning, and video generation.
 
-Machine Learning: Scikit-learn, XGBoost, NumPy, Pandas
+---
 
-Dev Tools: Git, VS Code, Postman, Google Analytics
+## 💼 Experience
 
-Other: REST APIs, Blockchain (basics), Firebase, Docker (basics)
+- 🔬 **Machine Learning**: Regression, Classification, Clustering, XGBoost, Scikit-learn  
+- 🌐 **Web Development**: MERN Stack (MongoDB, Express, React, Node.js), Flask  
+- 🛠 **Dev Tools**: Git, Docker (basics), Firebase, Google Analytics  
+- 🗄 **Databases**: MongoDB, MySQL  
+- 🧠 **AI/ML Tools**: Pandas, NumPy, Matplotlib
 
-🚀 Projects
+---
 
-🔗 FarmBazaarA blockchain-based contract farming platform enabling secure crop pre-sale and advance payments, with AI-driven price predictions.
+## 📂 Projects
 
-🔗 Excavate - Band Gap PredictionFlask web tool using ML models to predict band gaps in perovskite oxides, supporting material optimization.
+### [🔗 FarmBazaar](https://github.com/SahilMotiramani/FarmBazaar)
+> Blockchain-based contract farming platform with pre-sale crop agreements, AI price prediction, and admin approval dashboard.
 
-🔗 EcoSynthAn AI-powered multimedia companion featuring voice cloning, dubbing, text-to-speech, speech-to-text, and AI video creation.
+### [🔗 Excavate - Band Gap Prediction Tool](https://github.com/SahilMotiramani/Excavate_2025)
+> Flask web app for predicting band gaps using classification and regression models powered by XGBoost.
 
-📜 Certifications
+### [🔗 EcoSynth - AI Multimedia Companion](https://github.com/Atharva6780/PCU_HACKATHON)
+> AI-powered tool with voice cloning, TTS, STT, dubbing, and dynamic video generation.
 
-✔ Java & Python Full Stack Development
+---
 
-✔ Machine Learning with Flask
+## 🧾 Certifications
 
-✔ MERN Stack Development
+- ✅ Java & Python Full Stack Development  
+- ✅ Machine Learning & Flask  
+- ✅ MERN Stack Development
 
-💡 I'm always open to collaborating on innovative projects or internships related to ML, full-stack development, and AI systems.
+---
 
+## 📫 Let's Connect
+
+I'm open to internships, collaborations, or freelance opportunities in ML, AI, and full-stack development.
+
+Feel free to reach out via [email](mailto:msd201104@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sahil-motiramani-b116842a8/).
