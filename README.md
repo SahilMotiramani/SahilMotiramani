@@ -6,6 +6,10 @@
 📧 [msd201104@gmail.com](mailto:msd201104@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-motiramani-b116842a8/) | [GitHub](https://github.com/SahilMotiramani)
 
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=SahilMotiramani&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ## 🚀 About Me
