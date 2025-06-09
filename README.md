@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sahil Dinesh Motiramani
 
-🎓 B.E in Information Technology | Data Science Focus  
+🎓 B.E in Information Technology 
 🏫 Vivekanand Education Society’s Institute Of Technology (VESIT), Mumbai  
 📍 Mumbai, India  
 📧 [msd201104@gmail.com](mailto:msd201104@gmail.com)  
